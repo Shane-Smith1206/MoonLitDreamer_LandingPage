@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet');
+
 
 :root {
-    --font: 'Fira Sans', sans-serif;
+    --font: 'Rubik Moonrocks', cursive;
     
-    --background: #282a36;
-    --selection:#44475a;
+    --background: #371B58;
+    --selection:#4C3575;
     --comment:#6272a4;
-    --purple:#bd93f9;
+    --purple:#ffffff;
     --white:#f8f8f2;
     --pink:#ff79c6;
 }
