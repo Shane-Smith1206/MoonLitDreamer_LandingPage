@@ -90,3 +90,46 @@ footer{
     background-color: var(--selection);
     color: var(--purple);
 }
+
+/* This is
+a multi-line
+comment 
+
+#buttons{
+    max-width: 675px;
+    width: auto;
+
+    display: block;
+
+    margin: 27px auto;
+}
+
+.button{
+    display: block;
+    margin-bottom: 20px;
+    padding: 17px;
+
+    background-color: var(--background);
+    color:var(--comment);
+
+    font-family: var(--font);
+    font-size: 1rem;
+    font-weight: 500;
+
+    border-radius: 5px;
+    border: solid var(--purple) 1px;
+
+    text-align: center;
+    text-decoration: none;
+    
+    transition: all .25s cubic-bezier(.08,.59,.29,.99);
+    
+}
+
+.button:hover{
+    background-color: var(--selection);
+    color: var(--purple);
+}
+
+
+End Comment*/
