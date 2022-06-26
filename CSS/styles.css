@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet');
+
 
 
 :root {
-    --font: 'Rubik Moonrocks', cursive;
+    --font: 'Dancing Script', cursive;
     
     --background: #371B58;
     --selection:#4C3575;
