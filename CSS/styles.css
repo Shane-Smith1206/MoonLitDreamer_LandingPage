@@ -31,7 +31,6 @@ footer{
 #userPhoto{
     width: 96px;
     height: 96px;
-
     display: block;
 
     margin: 35px auto 20px;
@@ -91,9 +90,15 @@ footer{
     color: var(--purple);
 }
 
+
+
+
+
 /* This is
 a multi-line
 comment 
+
+
 
 #buttons{
     max-width: 675px;
